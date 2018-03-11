@@ -8,6 +8,6 @@ public class HelloWorld {
 		Greeter greeter = new Greeter();
         System.out.println(greeter.sayHello());
         
-        System.out.println("just do something to test git!");
+        System.out.println("just do something to test git1!");
     }
 }
